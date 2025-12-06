@@ -67,4 +67,4 @@ The dataset was created through a rigorous process involving:
 ## Citation
 
 If you use this dataset in your research, please refer to the paper:
-*Visual Document Matching for Zero-Shot Document Classification* (ICDAR 2025).
+*Visual Document Matching for Zero-Shot Document Classification* (ICDAR 2025 Workshops).
