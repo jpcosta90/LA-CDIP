@@ -17,9 +17,9 @@ Unlike the RVL-CDIP dataset, which classifies documents by their purpose (e.g., 
 
 ## Key Features
 
-- **Layout-Aware**: Classes are defined by structural patterns (e.g., company logos, table layouts, text positions) rather than document purpose.
+- **Layout-Aware**: Classes are defined by structural patterns (e.g., company logos, table layouts, text positions).
 - **Zero-Shot Learning**: Designed to train models that can generalize to unseen document types without retraining.
-- **High Consistency**: Each class represents a single structural pattern, and no two classes share the same pattern.
+- **High Consistency**: Each class represents a single structural pattern.
 
 ## Evaluation Protocols
 
